@@ -1,0 +1,21 @@
+MARCA	MODELO	TIPO	COLOR
+Toyota	 Corolla	 Sedan	 Rojo
+Ford	 Mustang	 Deportivo	 Azul
+Honda	 Civic	 Sedan	 Gris
+Chevrolet	 Cruze	 Sedan	 Negro
+Volkswagen	 Golf	 Hatchback	 Blanco
+BMW	 Serie 3	 Sedan	 Plata
+Audi	 A4	 Sedan	 Negro
+Mercedes-Benz	 Clase C	 Sedan	 Gris
+Nissan	 Sentra	 Sedan	 Rojo
+Hyundai	 Elantra	 Sedan	 Azul
+Toyota	 Camry	 Sedan	 Blanco
+Ford	 Focus	 Hatchback	 Negro
+Honda	 Accord	 Sedan	 Gris
+Chevrolet	 Malibu	 Sedan	 Plata
+Volkswagen	 Jetta	 Sedan	 Rojo
+BMW	 Serie 5	 Sedan	 Azul
+Audi	 A3	 Sedan	 Negro
+Mercedes-Benz	 Clase E	 Sedan	 Gris
+Nissan	 Altima	 Sedan	 Blanco
+Hyundai	 Sonata	 Sedan	 Rojo
